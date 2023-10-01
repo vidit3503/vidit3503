@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/vidit3503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidit3503" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vidit3503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidit3503" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vidit3503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vidit3503" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/vidit-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vidit3503" height="30" width="40" /></a>
 <a href="https://instagram.com/vidit3503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vidit3503" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vidit3503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kunj_shah" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vidit3503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vidit3503" height="30" width="40" /></a>
