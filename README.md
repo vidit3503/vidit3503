@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vidit3503" target="blank"><img src="https://img.shields.io/twitter/follow/vidit3503?logo=twitter&style=for-the-badge" alt="vidit3503" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, DSA**
+- 🌱 I’m currently learning **C++, Java, DSA , Pyhton , Apex**
 
 - 👨‍💻 All of my projects are available at [https://vidit3503.github.io/](https://vidit3503.github.io/)
 
