@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vidit3503](https://www.linkedin.com/in/vidit3503)
 
+- Click here to download [Resume](https://drive.google.com/)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidit3503&label=Profile%20views&color=0e75b6&style=flat" alt="vidit3503" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vidit3503" target="blank"><img src="https://img.shields.io/twitter/follow/vidit3503?logo=twitter&style=for-the-badge" alt="vidit3503" /></a> </p>
