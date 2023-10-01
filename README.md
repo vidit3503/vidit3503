@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidit Shah</h1>
 <h3 align="center">Salesforce Developer | Coder </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidit3503&label=Profile%20views&color=0e75b6&style=flat" alt="vidit3503" /> </p>
-
-<p align="left"> <a href="https://twitter.com/vidit3503" target="blank"><img src="https://img.shields.io/twitter/follow/vidit3503?logo=twitter&style=for-the-badge" alt="vidit3503" /></a> </p>
-
 - 🌱 I’m currently learning **C++, Java, DSA , Pyhton , Apex**
 
 - 👨‍💻 All of my projects are available at [https://vidit3503.github.io/](https://vidit3503.github.io/)
@@ -12,6 +8,10 @@
 - 📫 To reach me: **viditshah035@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vidit3503](https://www.linkedin.com/in/vidit3503)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidit3503&label=Profile%20views&color=0e75b6&style=flat" alt="vidit3503" /> </p>
+
+<p align="left"> <a href="https://twitter.com/vidit3503" target="blank"><img src="https://img.shields.io/twitter/follow/vidit3503?logo=twitter&style=for-the-badge" alt="vidit3503" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
