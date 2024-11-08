@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidit Shah</h1>
 <h3 align="center">Salesforce Developer | Coder </h3>
 
-- 🌱 I’m currently learning **C++, Java, DSA , Pyhton , Apex**
+- 🌱 I’m expertise in **Salesforce Custom Development, Sales Cloud, Service Cloud , Field Service , LWC, Aura, Apex**
 
 - 👨‍💻 All of my projects are available at [https://vidit3503.github.io/](https://vidit3503.github.io/)
 
