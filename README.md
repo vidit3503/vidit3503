@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vidit Shah</h1>
 <h3 align="center">Salesforce Developer | Coder </h3>
 
-- 🌱 My field of expertise are in **Salesforce Custom Development, Sales Cloud, Service Cloud , Field Service , LWC, Aura, Apex**
+- 🌱 My field of expertise are in **Salesforce Custom Development, Sales Cloud, Service Cloud, Field Service, LWC, Aura, Apex**
 
 - 👨‍💻 All of my projects are available at [https://vidit3503.github.io/](https://vidit3503.github.io/)
 
 - 📫 To reach me: **viditshah035@gmail.com**
+  
+- Having a total of 3 years of Industry Level experience in Salesforce
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vidit3503](https://www.linkedin.com/in/vidit3503)
 
